@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c058f416-b01b-4132-a0ba-143a93aea309" name="Default Changelist" comment="" />
+    <list default="true" id="c058f416-b01b-4132-a0ba-143a93aea309" name="Default Changelist" comment="Project with division into classes commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/checkWinLose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/choosingTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/createTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuessTheMovie/guessTheMovie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuessTheMovie/guessTheMovie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guessTheMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guessTheMovie.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZV0G2ElmgmSH59PNnpVJsa4vK1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +34,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="checkWinLose" />
+      <recent name="choosingTitle" />
+      <recent name="createTables" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -56,34 +75,46 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project with division into classes commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project with division into classes commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="703" y="259" width="571" height="587" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1584912522211">
+    <state x="721" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584996097310">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="703" y="259" width="571" height="587" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584912522211" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1584994231894">
+    <state x="721" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584996097310" />
+    <state x="703" y="259" width="571" height="587" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1584996169782">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584994231894" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1584994231894">
+    <state x="703" y="259" width="571" height="587" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584996169782" />
+    <state x="529" y="96" width="918" height="912" key="CommitChangelistDialog2" timestamp="1584996567489">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584994231894" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1584994231894">
+    <state x="529" y="96" width="918" height="912" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584996567489" />
+    <state width="1807" height="322" key="GridCell.Tab.0.bottom" timestamp="1584996567508">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584994231894" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1584994231894">
+    <state width="1807" height="322" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584996567508" />
+    <state width="1807" height="322" key="GridCell.Tab.0.center" timestamp="1584996567507">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584994231894" />
+    <state width="1807" height="322" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584996567507" />
+    <state width="1807" height="322" key="GridCell.Tab.0.left" timestamp="1584996567507">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584996567507" />
+    <state width="1807" height="322" key="GridCell.Tab.0.right" timestamp="1584996567508">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584996567508" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584991638011">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584991638011" />
-    <state x="725" y="339" width="524" height="516" key="extract.method.dialog" timestamp="1584912461211">
+    <state x="951" y="280" width="524" height="516" key="extract.method.dialog" timestamp="1584996148522">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="725" y="339" width="524" height="516" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584912461211" />
+    <state x="951" y="280" width="524" height="516" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584996148522" />
   </component>
 </project>
