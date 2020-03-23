@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c058f416-b01b-4132-a0ba-143a93aea309" name="Default Changelist" comment="Project with division into classes commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checkWinLose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/choosingTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/createTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuessTheMovie/guessTheMovie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuessTheMovie/guessTheMovie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guessTheMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guessTheMovie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GuessTheMovie" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,7 +70,56 @@
       <option name="presentableId" value="Default" />
       <updated>1584908854065</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project with division into classes commit">
+      <created>1584996615774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584996615774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project with division into classes commit" />
@@ -88,26 +134,38 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="703" y="259" width="571" height="587" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584996169782" />
-    <state x="529" y="96" width="918" height="912" key="CommitChangelistDialog2" timestamp="1584996567489">
+    <state x="529" y="96" width="918" height="912" key="CommitChangelistDialog2" timestamp="1584996878453">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="529" y="96" width="918" height="912" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584996567489" />
-    <state width="1807" height="322" key="GridCell.Tab.0.bottom" timestamp="1584996567508">
+    <state x="529" y="96" width="918" height="912" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584996878453" />
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1584997091764">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="322" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584996567508" />
-    <state width="1807" height="322" key="GridCell.Tab.0.center" timestamp="1584996567507">
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584997091764" />
+    <state width="1807" height="322" key="GridCell.Tab.0.bottom" timestamp="1584997054763">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="322" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584996567507" />
-    <state width="1807" height="322" key="GridCell.Tab.0.left" timestamp="1584996567507">
+    <state width="1807" height="322" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584997054763" />
+    <state width="1807" height="322" key="GridCell.Tab.0.center" timestamp="1584997054762">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="322" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584996567507" />
-    <state width="1807" height="322" key="GridCell.Tab.0.right" timestamp="1584996567508">
+    <state width="1807" height="322" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584997054762" />
+    <state width="1807" height="322" key="GridCell.Tab.0.left" timestamp="1584997054761">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="322" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584996567508" />
+    <state width="1807" height="322" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584997054761" />
+    <state width="1807" height="322" key="GridCell.Tab.0.right" timestamp="1584997054762">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584997054762" />
+    <state x="665" y="214" width="646" height="676" key="RollbackChangesDialog" timestamp="1584997031238">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="665" y="214" width="646" height="676" key="RollbackChangesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584997031238" />
+    <state x="684" y="238" width="608" height="628" key="VcsDiffUtil.ChangesDialog" timestamp="1584997092481">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="684" y="238" width="608" height="628" key="VcsDiffUtil.ChangesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584997092481" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584991638011">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
